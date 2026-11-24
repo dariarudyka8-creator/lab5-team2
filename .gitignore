@@ -1,0 +1,9 @@
+.env
+.env.*
+.venv/
+node_modules/
+*.log
+*.zip
+*.rar
+*.7z
+*.tmp
